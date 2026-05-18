@@ -1,0 +1,11 @@
+requests
+pandas
+faker
+pgeocode
+beautifulsoup4
+selenium
+seleniumwire
+webdriver-manager
+python-dotenv
+camoufox
+Appium-Python-Client

@@ -1,0 +1,19 @@
+timestamp,Email,Password,First Name,Last Name,Username,Zipcode,error
+2025-08-17T15:09:07,email2@gmail.com,Password2,Nametwo,Lastnametwo,username2,11433,"TimeoutException: Message: 
+Stacktrace:
+0   chromedriver                        0x000000010259726c cxxbridge1$str$ptr + 2741972
+1   chromedriver                        0x000000010258f1dc cxxbridge1$str$ptr + 2709060
+2   chromedriver                        0x00000001020d94fc cxxbridge1$string$len + 90520
+3   chromedriver                        0x0000000102120a14 cxxbridge1$string$len + 382640
+4   chromedriver                        0x0000000102161db8 cxxbridge1$string$len + 649812
+5   chromedriver                        0x0000000102114d30 cxxbridge1$string$len + 334284
+6   chromedriver                        0x000000010255a66c cxxbridge1$str$ptr + 2493140
+7   chromedriver                        0x000000010255d8a0 cxxbridge1$str$ptr + 2505992
+8   chromedriver                        0x000000010253b4a4 cxxbridge1$str$ptr + 2365708
+9   chromedriver                        0x000000010255e15c cxxbridge1$str$ptr + 2508228
+10  chromedriver                        0x000000010252c59c cxxbridge1$str$ptr + 2304516
+11  chromedriver                        0x000000010257dc78 cxxbridge1$str$ptr + 2638048
+12  chromedriver                        0x000000010257de04 cxxbridge1$str$ptr + 2638444
+13  chromedriver                        0x000000010258ee28 cxxbridge1$str$ptr + 2708112
+14  libsystem_pthread.dylib             0x000000018c1acc0c _pthread_start + 136
+15  libsystem_pthread.dylib             0x000000018c1a7b80 thread_start + 8
