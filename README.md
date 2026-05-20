@@ -2,6 +2,10 @@
 
 A modular Python automation toolkit that orchestrates multi-stage workflows across HTTP APIs, browser engines, email protocols, and mobile devices -- built as eight independent CLI tools connected through a shared filesystem pipeline.
 
+![Python](https://img.shields.io/badge/Python-3.13+-blue)
+
+---
+
 ## Overview
 
 Global Raffle+ automates account lifecycle and engagement on the Global Citizen platform (`globalcitizen.org` and its Android app). The toolkit spans the full pipeline: synthetic data generation, account registration via reverse-engineered API flows, email confirmation through IMAP parsing, session capture, bulk API interaction, GraphQL-based status polling, and Android UI automation via Appium.
